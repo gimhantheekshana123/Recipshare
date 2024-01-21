@@ -1,0 +1,1914 @@
+# Copyright (C) 2023 VineThemes
+# This file is distributed under the GNU General Public License v2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Appetizo 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/appetizo\n"
+"POT-Creation-Date: 2023-08-11 14:35:39+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:19
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "Sorry, but the page you are looking for has moved or no longer exists. Please use the search below, or the menu to locate the missing page."
+msgstr ""
+
+#: appetizo_custom_controller.php:15
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:393 class-tgm-plugin-activation.php:920
+#: class-tgm-plugin-activation.php:2626 class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395 class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1027 class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1214 class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2414 inc/about/about-appetizo.php:72
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2485
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2489
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2493
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: class-tgm-plugin-activation.php:3594
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:3596
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:3602
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3602 class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3602 class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: class-tgm-plugin-activation.php:3605
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:3610
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: class-tgm-plugin-activation.php:3613
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:29
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: custom-archive.php:37 full-width.php:50 page.php:49 single.php:88
+#: single.php:90
+msgid "Read More"
+msgstr ""
+
+#: custom-archive.php:41
+msgid "Recent Posts"
+msgstr ""
+
+#: custom-archive.php:48
+msgid "Pages"
+msgstr ""
+
+#: custom-archive.php:55
+msgid "Categories"
+msgstr ""
+
+#: custom-archive.php:62
+msgid "Contributors"
+msgstr ""
+
+#: custom-archive.php:69
+msgid "By Day"
+msgstr ""
+
+#: custom-archive.php:76
+msgid "By Month"
+msgstr ""
+
+#: customizer.php:26
+msgid "See Appetizo Premium"
+msgstr ""
+
+#: customizer.php:39 customizer.php:41 inc/about/about-appetizo.php:145
+msgid "Documentation"
+msgstr ""
+
+#: customizer.php:40
+msgid "Read how to customize the theme, set up widgets, and learn all the possible options available to you."
+msgstr ""
+
+#: customizer.php:44 customizer.php:46 inc/about/about-appetizo.php:29
+msgid "Support"
+msgstr ""
+
+#: customizer.php:45
+msgid "For Appetizo theme related questions feel free to post on our support forums."
+msgstr ""
+
+#: customizer.php:61 inc/about/about-appetizo.php:5
+msgid "About Appetizo"
+msgstr ""
+
+#: customizer.php:83
+msgid "Slider Options"
+msgstr ""
+
+#: customizer.php:84
+msgid "Configure your Slider here."
+msgstr ""
+
+#: customizer.php:96
+msgid "Homepage Slider"
+msgstr ""
+
+#: customizer.php:100 customizer.php:1154 customizer.php:1217
+#: customizer.php:1260 customizer.php:1321 customizer.php:1363
+#: customizer.php:1425 customizer.php:1466 customizer.php:1529
+#: customizer.php:1570 customizer.php:1631 customizer.php:1673
+#: customizer.php:1735
+msgid "Enable"
+msgstr ""
+
+#: customizer.php:101 customizer.php:1155 customizer.php:1218
+#: customizer.php:1261 customizer.php:1322 customizer.php:1364
+#: customizer.php:1426 customizer.php:1467 customizer.php:1530
+#: customizer.php:1571 customizer.php:1632 customizer.php:1674
+#: customizer.php:1736
+msgid "Disable"
+msgstr ""
+
+#: customizer.php:112
+msgid "Category for Slider"
+msgstr ""
+
+#: customizer.php:127
+msgid "Number of Posts for Slider"
+msgstr ""
+
+#: customizer.php:144
+msgid "Slider Designs"
+msgstr ""
+
+#: customizer.php:147
+msgid "Carousel"
+msgstr ""
+
+#: customizer.php:148
+msgid "Grid"
+msgstr ""
+
+#: customizer.php:149
+msgid "Modern Carousel"
+msgstr ""
+
+#: customizer.php:159
+msgid "Featured Boxes"
+msgstr ""
+
+#: customizer.php:160
+msgid "Configure Featured Boxes"
+msgstr ""
+
+#: customizer.php:498
+msgid "Enable Featured Boxes"
+msgstr ""
+
+#: customizer.php:511
+msgid "Featured Box1 Title"
+msgstr ""
+
+#: customizer.php:524
+msgid "Featured Box1 Image"
+msgstr ""
+
+#: customizer.php:536
+msgid "Featured Box1 URL"
+msgstr ""
+
+#: customizer.php:550
+msgid "Featured Box2 Title"
+msgstr ""
+
+#: customizer.php:563
+msgid "Featured Box2 Image"
+msgstr ""
+
+#: customizer.php:575
+msgid "Featured Box2 URL"
+msgstr ""
+
+#: customizer.php:589
+msgid "Featured Box3 Title"
+msgstr ""
+
+#: customizer.php:602
+msgid "Featured Box3 Image"
+msgstr ""
+
+#: customizer.php:614
+msgid "Featured Box3 URL"
+msgstr ""
+
+#: customizer.php:628
+msgid "Featured Box4 Title"
+msgstr ""
+
+#: customizer.php:641
+msgid "Featured Box4 Image"
+msgstr ""
+
+#: customizer.php:653
+msgid "Featured Box4 URL"
+msgstr ""
+
+#: customizer.php:667
+msgid "Featured Box5 Title"
+msgstr ""
+
+#: customizer.php:680
+msgid "Featured Box5 Image"
+msgstr ""
+
+#: customizer.php:692
+msgid "Featured Box5 URL"
+msgstr ""
+
+#: customizer.php:706
+msgid "Featured Box6 Title"
+msgstr ""
+
+#: customizer.php:719
+msgid "Featured Box6 Image"
+msgstr ""
+
+#: customizer.php:731
+msgid "Featured Box6 URL"
+msgstr ""
+
+#: customizer.php:745
+msgid "Featured Box7 Title"
+msgstr ""
+
+#: customizer.php:758
+msgid "Featured Box7 Image"
+msgstr ""
+
+#: customizer.php:770
+msgid "Featured Box7 URL"
+msgstr ""
+
+#: customizer.php:784
+msgid "Featured Box8 Title"
+msgstr ""
+
+#: customizer.php:797
+msgid "Featured Box8 Image"
+msgstr ""
+
+#: customizer.php:809
+msgid "Featured Box8 URL"
+msgstr ""
+
+#: customizer.php:823
+msgid "Featured Box9 Title"
+msgstr ""
+
+#: customizer.php:836
+msgid "Featured Box9 Image"
+msgstr ""
+
+#: customizer.php:848
+msgid "Featured Box9 URL"
+msgstr ""
+
+#: customizer.php:862
+msgid "Featured Box10 Title"
+msgstr ""
+
+#: customizer.php:875
+msgid "Featured Box10 Image"
+msgstr ""
+
+#: customizer.php:887
+msgid "Featured Box10 URL"
+msgstr ""
+
+#: customizer.php:901
+msgid "Featured Box11 Title"
+msgstr ""
+
+#: customizer.php:914
+msgid "Featured Box11 Image"
+msgstr ""
+
+#: customizer.php:926
+msgid "Featured Box11 URL"
+msgstr ""
+
+#: customizer.php:940
+msgid "Featured Box12 Title"
+msgstr ""
+
+#: customizer.php:953
+msgid "Featured Box12 Image"
+msgstr ""
+
+#: customizer.php:965
+msgid "Featured Box12 URL"
+msgstr ""
+
+#: customizer.php:979
+msgid "Featured Box13 Title"
+msgstr ""
+
+#: customizer.php:992
+msgid "Featured Box13 Image"
+msgstr ""
+
+#: customizer.php:1004
+msgid "Featured Box13 URL"
+msgstr ""
+
+#: customizer.php:1018
+msgid "Featured Box14 Title"
+msgstr ""
+
+#: customizer.php:1031
+msgid "Featured Box14 Image"
+msgstr ""
+
+#: customizer.php:1043
+msgid "Featured Box14 URL"
+msgstr ""
+
+#: customizer.php:1057
+msgid "Featured Box15 Title"
+msgstr ""
+
+#: customizer.php:1070
+msgid "Featured Box15 Image"
+msgstr ""
+
+#: customizer.php:1082
+msgid "Featured Box15 URL"
+msgstr ""
+
+#: customizer.php:1096
+msgid "Featured Box16 Title"
+msgstr ""
+
+#: customizer.php:1109
+msgid "Featured Box16 Image"
+msgstr ""
+
+#: customizer.php:1121
+msgid "Featured Box16 URL"
+msgstr ""
+
+#: customizer.php:1138
+msgid "Layout Box1 Options"
+msgstr ""
+
+#: customizer.php:1139
+msgid "Configure your Layout Box1 here."
+msgstr ""
+
+#: customizer.php:1150
+msgid "Homepage Layout Box1"
+msgstr ""
+
+#: customizer.php:1166
+msgid "Layout Box1 Title"
+msgstr ""
+
+#: customizer.php:1181
+msgid "Category for Layout Box1"
+msgstr ""
+
+#: customizer.php:1195
+msgid "Number of Posts for Layout Box1"
+msgstr ""
+
+#: customizer.php:1213 customizer.php:1317 customizer.php:1421
+#: customizer.php:1525 customizer.php:1627 customizer.php:1731
+msgid "See More Button"
+msgstr ""
+
+#: customizer.php:1230 customizer.php:1334 customizer.php:1438
+#: customizer.php:1542 customizer.php:1644 customizer.php:1748
+msgid "See More Button Text"
+msgstr ""
+
+#: customizer.php:1244
+msgid "Layout Box2 Options"
+msgstr ""
+
+#: customizer.php:1245
+msgid "Configure your Layout Box2 here."
+msgstr ""
+
+#: customizer.php:1256
+msgid "Homepage Layout Box2"
+msgstr ""
+
+#: customizer.php:1272
+msgid "Layout Box2 Title"
+msgstr ""
+
+#: customizer.php:1287
+msgid "Category for Layout Box2"
+msgstr ""
+
+#: customizer.php:1301
+msgid "Number of Posts for Layout Box2"
+msgstr ""
+
+#: customizer.php:1347
+msgid "Layout Box3 Options"
+msgstr ""
+
+#: customizer.php:1348
+msgid "Configure your Layout Box3 here."
+msgstr ""
+
+#: customizer.php:1359
+msgid "Homepage Layout Box3"
+msgstr ""
+
+#: customizer.php:1375
+msgid "Layout Box3 Title"
+msgstr ""
+
+#: customizer.php:1390
+msgid "Category for Layout Box3"
+msgstr ""
+
+#: customizer.php:1404
+msgid "Number of Posts for Layout Box3"
+msgstr ""
+
+#: customizer.php:1450
+msgid "Layout Box4 Options"
+msgstr ""
+
+#: customizer.php:1451
+msgid "Configure your Layout Box4 here."
+msgstr ""
+
+#: customizer.php:1462
+msgid "Homepage Layout Box4"
+msgstr ""
+
+#: customizer.php:1478
+msgid "Layout Box4 Title"
+msgstr ""
+
+#: customizer.php:1493
+msgid "Category for Layout Box4"
+msgstr ""
+
+#: customizer.php:1507
+msgid "Number of Posts for Layout Box4"
+msgstr ""
+
+#: customizer.php:1554
+msgid "Layout Box5 Options"
+msgstr ""
+
+#: customizer.php:1555
+msgid "Configure your Layout Box5 here."
+msgstr ""
+
+#: customizer.php:1566
+msgid "Homepage Layout Box5"
+msgstr ""
+
+#: customizer.php:1582
+msgid "Layout Box5 Title"
+msgstr ""
+
+#: customizer.php:1597
+msgid "Category for Layout Box5"
+msgstr ""
+
+#: customizer.php:1611
+msgid "Number of Posts for Layout Box5"
+msgstr ""
+
+#: customizer.php:1657
+msgid "Layout Box6 Options"
+msgstr ""
+
+#: customizer.php:1658
+msgid "Configure your Layout Box6 here."
+msgstr ""
+
+#: customizer.php:1669
+msgid "Homepage Layout Box6"
+msgstr ""
+
+#: customizer.php:1685
+msgid "Layout Box6 Title"
+msgstr ""
+
+#: customizer.php:1700
+msgid "Category for Layout Box6"
+msgstr ""
+
+#: customizer.php:1714
+msgid "Number of Posts for Layout Box6"
+msgstr ""
+
+#: customizer.php:1765
+msgid "General Options"
+msgstr ""
+
+#: customizer.php:1766
+msgid "Configure Your Theme Settings Here."
+msgstr ""
+
+#: customizer.php:1778
+msgid "Hide Top Search Icon"
+msgstr ""
+
+#: customizer.php:1791
+msgid "Disable Responsive"
+msgstr ""
+
+#: customizer.php:1804
+msgid "Disable Sidebar on Homepage and Archive Pages"
+msgstr ""
+
+#: customizer.php:1817
+msgid "Disable Sidebar on Posts"
+msgstr ""
+
+#: customizer.php:1830
+msgid "Disable Sidebar on Pages"
+msgstr ""
+
+#: customizer.php:1844
+msgid "Disable Author Box on Posts"
+msgstr ""
+
+#: customizer.php:1859
+msgid "Disable Below Slider Widget Area"
+msgstr ""
+
+#: customizer.php:1875
+msgid "Homepage and Archive Post Summary Type"
+msgstr ""
+
+#: customizer.php:1878
+msgid "Use Excerpt"
+msgstr ""
+
+#: customizer.php:1879
+msgid "Use Full Post"
+msgstr ""
+
+#: customizer.php:1890
+msgid "Homepage and Archive Post Layout Type"
+msgstr ""
+
+#: customizer.php:1893 inc/about/about-appetizo.php:302
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer.php:1894
+msgid "Standard Post"
+msgstr ""
+
+#: customizer.php:1895
+msgid "List Post"
+msgstr ""
+
+#: customizer.php:1903
+msgid "Footer Settings"
+msgstr ""
+
+#: customizer.php:1904
+msgid "Configure Your Footer Here."
+msgstr ""
+
+#: customizer.php:1965
+msgid "Main Color"
+msgstr ""
+
+#: customizer.php:1985
+msgid "Sidebar/Footer Title Color"
+msgstr ""
+
+#: customizer.php:2005
+msgid "Homepage Light Background"
+msgstr ""
+
+#: customizer.php:2025
+msgid "Carousel Category Color"
+msgstr ""
+
+#: customizer.php:2045
+msgid "See More Button Background Color"
+msgstr ""
+
+#: customizer.php:2064
+msgid "See More Button Text Color"
+msgstr ""
+
+#: customizer.php:2084
+msgid "Footer Background"
+msgstr ""
+
+#: customizer.php:2105
+msgid "Homepage Title Color"
+msgstr ""
+
+#: customizer.php:2125
+msgid "Post Page Title Color"
+msgstr ""
+
+#: customizer.php:2147
+msgid "Header Text Hover Color"
+msgstr ""
+
+#: customizer.php:2166
+msgid "Topbar Background Color"
+msgstr ""
+
+#: customizer.php:2186
+msgid "Topbar Text Color"
+msgstr ""
+
+#: customizer.php:2201
+msgid "Social Links"
+msgstr ""
+
+#: customizer.php:2265
+msgid "Facebook"
+msgstr ""
+
+#: customizer.php:2271
+msgid "Twitter"
+msgstr ""
+
+#: customizer.php:2277
+msgid "Linkedin"
+msgstr ""
+
+#: customizer.php:2283
+msgid "Pinterest"
+msgstr ""
+
+#: customizer.php:2290
+msgid "Instagram"
+msgstr ""
+
+#: customizer.php:2296
+msgid "Bloglovin"
+msgstr ""
+
+#: customizer.php:2302
+msgid "Snapchat"
+msgstr ""
+
+#: customizer.php:2308
+msgid "Tumblr"
+msgstr ""
+
+#: customizer.php:2314
+msgid "Youtube"
+msgstr ""
+
+#: customizer.php:2320
+msgid "Dribbble"
+msgstr ""
+
+#: customizer.php:2326
+msgid "Soundcloud"
+msgstr ""
+
+#: customizer.php:2332
+msgid "Vimeo"
+msgstr ""
+
+#: customizer.php:2338
+msgid "Rss"
+msgstr ""
+
+#: footer.php:45
+msgid "Copyright &copy; 2023. All Rights Reserved."
+msgstr ""
+
+#: footer.php:51
+msgid "VineThemes"
+msgstr ""
+
+#: functions.php:65
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:162
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:164
+msgid "Widgets in this area will be shown on the sidebar of all pages."
+msgstr ""
+
+#: functions.php:169
+msgid "Below Slider"
+msgstr ""
+
+#: functions.php:171
+msgid "This widget area is for Newsletter, Ads, Most popular widgets, etc."
+msgstr ""
+
+#: functions.php:178
+msgid "Footer Left"
+msgstr ""
+
+#: functions.php:180 functions.php:187 functions.php:194
+msgid "This widget area is for Footer Widgets."
+msgstr ""
+
+#: functions.php:185
+msgid "Footer Center"
+msgstr ""
+
+#: functions.php:192
+msgid "Footer Right"
+msgstr ""
+
+#: functions.php:199
+msgid "Instagram Footer"
+msgstr ""
+
+#: functions.php:205
+msgid "Use the \"Instagram\" widget here. IMPORTANT: For best result set number of photos to 8."
+msgstr ""
+
+#: functions.php:208
+msgid "Footer Top"
+msgstr ""
+
+#: functions.php:214
+msgid "Use the \"Footer Top\" widget here."
+msgstr ""
+
+#: functions.php:223
+msgid "Thank you for choosing Appetizo! Now, we highly recommend you to visit our welcome page."
+msgstr ""
+
+#: functions.php:224
+msgid "Get Started with Appetizo"
+msgstr ""
+
+#: functions.php:269
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions.php:274
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:283
+msgid "Edit"
+msgstr ""
+
+#: functions.php:289
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:329
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:422
+msgid "Written By"
+msgstr ""
+
+#: header.php:41
+msgid "Skip to main content"
+msgstr ""
+
+#: header.php:133
+msgid "Header image"
+msgstr ""
+
+#: header.php:158
+msgid "appetizo-facebook"
+msgstr ""
+
+#: header.php:162
+msgid "appetizo-twitter"
+msgstr ""
+
+#: header.php:167
+msgid "appetizo-pinterest"
+msgstr ""
+
+#: header.php:171
+msgid "appetizo-linkedin"
+msgstr ""
+
+#: header.php:175
+msgid "appetizo-instagram"
+msgstr ""
+
+#: header.php:178
+msgid "appetizo-bloglovin"
+msgstr ""
+
+#: header.php:181
+msgid "appetizo-snapchat"
+msgstr ""
+
+#: header.php:184
+msgid "appetizo-tumblr"
+msgstr ""
+
+#: header.php:187
+msgid "appetizo-youtube"
+msgstr ""
+
+#: header.php:190
+msgid "appetizo-dribbble"
+msgstr ""
+
+#: header.php:193
+msgid "appetizo-soundcloud"
+msgstr ""
+
+#: header.php:196
+msgid "appetizo-vimeo"
+msgstr ""
+
+#: header.php:199
+msgid "appetizo-rss"
+msgstr ""
+
+#: inc/about/about-appetizo.php:13
+msgid "Welcome to Appetizo!"
+msgstr ""
+
+#: inc/about/about-appetizo.php:15
+msgid "Elevate your website with Appetizo, the ultimate cooking recipe WordPress theme. Crafted to showcase and share your delicious recipes in style. Get started today! Discover the perfect blend of functionality and aesthetics with Appetizo, a top-tier Cooking Recipe WordPress Theme designed to cater to your culinary passion. Whether you're a seasoned chef, a food blogger, or a cooking enthusiast looking to share your delectable creations, Appetizo offers an exceptional platform to showcase your recipes in a visually appealing and user-friendly manner. Seamlessly integrating social media, this multipurpose food theme caters to those who seek to celebrate the world of culinary delights. Give Appetizo a try today and embark on a journey of flavor exploration, awakening taste buds and recipe sharing."
+msgstr ""
+
+#: inc/about/about-appetizo.php:23
+msgid "Getting Started"
+msgstr ""
+
+#: inc/about/about-appetizo.php:26
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/about/about-appetizo.php:32
+msgid "Free vs Premium"
+msgstr ""
+
+#: inc/about/about-appetizo.php:44
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/about/about-appetizo.php:46
+msgid "Highly recommended to begin with this, read the full theme documentation to understand the basics and even more details about how to use Appetizo. It is worth to spend 10 minutes and know almost everything about the theme."
+msgstr ""
+
+#: inc/about/about-appetizo.php:48
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/about/about-appetizo.php:53
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/about/about-appetizo.php:55
+msgid "All theme options are located here. After reading the Theme Documentation we recommend you to open the Theme Customizer and play with some options. You will enjoy it."
+msgstr ""
+
+#: inc/about/about-appetizo.php:57
+msgid "Customize Your Site"
+msgstr ""
+
+#: inc/about/about-appetizo.php:64
+msgid "Appetizo Premium - Predefined Styles"
+msgstr ""
+
+#: inc/about/about-appetizo.php:66
+msgid "Appetizo Premium's powerful setup allows you to easily create unique looking sites. Here are a few included examples that can be installed with one click in the "
+msgstr ""
+
+#: inc/about/about-appetizo.php:67
+msgid "Appetizo Premium Theme."
+msgstr ""
+
+#: inc/about/about-appetizo.php:68
+msgid "More details in the theme Documentation."
+msgstr ""
+
+#: inc/about/about-appetizo.php:75
+msgid "Version 1"
+msgstr ""
+
+#: inc/about/about-appetizo.php:76 inc/about/about-appetizo.php:83
+#: inc/about/about-appetizo.php:90
+msgid "Live Preview"
+msgstr ""
+
+#: inc/about/about-appetizo.php:82
+msgid "Version 2"
+msgstr ""
+
+#: inc/about/about-appetizo.php:89
+msgid "Version 3"
+msgstr ""
+
+#: inc/about/about-appetizo.php:102
+msgid "Recommended Plugins are fully supported by Appetizo theme. They well build the theme by giving more and more features. These are highly recommended to install."
+msgstr ""
+
+#: inc/about/about-appetizo.php:109
+msgid "Kirki"
+msgstr ""
+
+#: inc/about/about-appetizo.php:109
+msgid "Theme advanced customizer options."
+msgstr ""
+
+#: inc/about/about-appetizo.php:112
+msgid "Mailchimp"
+msgstr ""
+
+#: inc/about/about-appetizo.php:112
+msgid "Mail newsletters. Simple but flexible."
+msgstr ""
+
+#: inc/about/about-appetizo.php:115
+msgid "WP Instagram Widget"
+msgstr ""
+
+#: inc/about/about-appetizo.php:115
+msgid "A WordPress widget for showing your latest Instagram photos."
+msgstr ""
+
+#: inc/about/about-appetizo.php:133
+msgid "Forums"
+msgstr ""
+
+#: inc/about/about-appetizo.php:136
+msgid "Before asking a questions it's highly recommended to search on forums, but if you can't find the solution feel free to create a new topic."
+msgstr ""
+
+#: inc/about/about-appetizo.php:138
+msgid "Go to Support Forums"
+msgstr ""
+
+#: inc/about/about-appetizo.php:148
+msgid "Need more details? Please check out appetizo Theme Documentation for detailed information."
+msgstr ""
+
+#: inc/about/about-appetizo.php:150
+msgid "Read Full Documentation"
+msgstr ""
+
+#: inc/about/about-appetizo.php:158
+msgid "Donation"
+msgstr ""
+
+#: inc/about/about-appetizo.php:161
+msgid "Even a small sum can help us a lot with theme development. If the appetizo theme is useful and our support is helpful, please don't hesitate to donate a little bit, at least buy us a Coffee or a Beer :)"
+msgstr ""
+
+#: inc/about/about-appetizo.php:163
+msgid "Donate with PayPal"
+msgstr ""
+
+#: inc/about/about-appetizo.php:180
+msgid "Appetizo"
+msgstr ""
+
+#: inc/about/about-appetizo.php:181
+msgid "Appetizo Premium"
+msgstr ""
+
+#: inc/about/about-appetizo.php:187
+msgid "100% Responsive and Retina Ready"
+msgstr ""
+
+#: inc/about/about-appetizo.php:188
+msgid "Theme adapts to any kind of device screen, from mobile phones to high resolution Retina displays."
+msgstr ""
+
+#: inc/about/about-appetizo.php:195
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/about/about-appetizo.php:196
+msgid "Each hard-coded string is ready for translation, means you can translate everything. Language \"appetizo.pot\" file included."
+msgstr ""
+
+#: inc/about/about-appetizo.php:203
+msgid "MailChimp Support"
+msgstr ""
+
+#: inc/about/about-appetizo.php:204
+msgid "The most popular email client plugin. Very simple but super flexible."
+msgstr ""
+
+#: inc/about/about-appetizo.php:211
+msgid "Image &amp; Text Logos"
+msgstr ""
+
+#: inc/about/about-appetizo.php:212
+msgid "Upload your logo image(set the size) or simply type your text logo."
+msgstr ""
+
+#: inc/about/about-appetizo.php:219
+msgid "Featured Posts Slider"
+msgstr ""
+
+#: inc/about/about-appetizo.php:221
+msgid "Showcase unlimited number of Blog Posts in header area. There are three Slider designs."
+msgstr ""
+
+#: inc/about/about-appetizo.php:229
+msgid "Background Image/Color"
+msgstr ""
+
+#: inc/about/about-appetizo.php:230
+msgid "Set the custom body Background image or Color."
+msgstr ""
+
+#: inc/about/about-appetizo.php:238
+msgid "Header Background Image/Color"
+msgstr ""
+
+#: inc/about/about-appetizo.php:240
+msgid "Set the custom header Background image or Color."
+msgstr ""
+
+#: inc/about/about-appetizo.php:248
+msgid "Instagram Widget Area"
+msgstr ""
+
+#: inc/about/about-appetizo.php:250
+msgid "Set your Instagram Images in the footer."
+msgstr ""
+
+#: inc/about/about-appetizo.php:259
+msgid "Post Layouts"
+msgstr ""
+
+#: inc/about/about-appetizo.php:260
+msgid "Standard, List and Grid Blog Feed layout."
+msgstr ""
+
+#: inc/about/about-appetizo.php:267
+msgid "Multi-level Sub Menu Support"
+msgstr ""
+
+#: inc/about/about-appetizo.php:268
+msgid "Unlimited level of sub menus. Add as much as you need."
+msgstr ""
+
+#: inc/about/about-appetizo.php:275
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/about/about-appetizo.php:277
+msgid "Right Widgetised area."
+msgstr ""
+
+#: inc/about/about-appetizo.php:286
+msgid "Unlimited Colors"
+msgstr ""
+
+#: inc/about/about-appetizo.php:287
+msgid "Tons of color options. You can customize your Header, Content and Footer separately as much as possible."
+msgstr ""
+
+#: inc/about/about-appetizo.php:294
+msgid "800+ Google Fonts"
+msgstr ""
+
+#: inc/about/about-appetizo.php:295
+msgid "Rich Typography options. Choose from more than 800 Google Fonts, adjust Size, Line Height, Font Weight, etc..."
+msgstr ""
+
+#: inc/about/about-appetizo.php:303 inc/about/about-appetizo.php:311
+msgid "Choose from 1 up to 4 columns grid layout for your Blog Feed."
+msgstr ""
+
+#: inc/about/about-appetizo.php:310
+msgid "List Layout"
+msgstr ""
+
+#: inc/about/about-appetizo.php:318
+msgid "Advanced Footer Options"
+msgstr ""
+
+#: inc/about/about-appetizo.php:319
+msgid "Theme and Author credit links in the footer are automatically removed."
+msgstr ""
+
+#: inc/about/about-appetizo.php:367
+msgid "Installed"
+msgstr ""
+
+#: inc/about/about-appetizo.php:370
+msgid "Install Now"
+msgstr ""
+
+#: inc/slider/slider.php:48 inc/slider/slider.php:117 inc/slider/slider.php:208
+#: inc/slider/slider.php:274 index.php:109 layoutboxes.php:96
+#: layoutboxes.php:206 layoutboxes.php:312 layoutboxes.php:414
+#: layoutboxes.php:521 layoutboxes.php:629 single.php:58
+msgid "0"
+msgstr ""
+
+#: inc/slider/slider.php:48 inc/slider/slider.php:117 inc/slider/slider.php:208
+#: inc/slider/slider.php:274 index.php:109 layoutboxes.php:96
+#: layoutboxes.php:206 layoutboxes.php:312 layoutboxes.php:414
+#: layoutboxes.php:521 layoutboxes.php:629 single.php:58
+msgid "1"
+msgstr ""
+
+#: inc/slider/slider.php:48 inc/slider/slider.php:117 inc/slider/slider.php:208
+#: inc/slider/slider.php:274 index.php:109 layoutboxes.php:96
+#: layoutboxes.php:206 layoutboxes.php:312 layoutboxes.php:414
+#: layoutboxes.php:521 layoutboxes.php:629 single.php:58
+msgid "%"
+msgstr ""
+
+#: inc/widgets/about_widget.php:20
+msgid "An About Me Widget"
+msgstr ""
+
+#: inc/widgets/about_widget.php:26
+msgid "Appetizo: About Me"
+msgstr ""
+
+#: inc/widgets/about_widget.php:109 inc/widgets/facebook_widget.php:92
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/about_widget.php:115
+msgid "Image URL"
+msgstr ""
+
+#: inc/widgets/about_widget.php:121
+msgid "Sub title"
+msgstr ""
+
+#: inc/widgets/about_widget.php:127
+msgid "About me text"
+msgstr ""
+
+#: inc/widgets/about_widget.php:133
+msgid "Autograph Image URL"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:19
+msgid "A post widget that can display your latest posts, posts from a category, or hand-picked posts by ID."
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:25
+msgid "Appetizo: Post Widget"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:97
+msgid "Default"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:141
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:146
+#: inc/widgets/popularpost_widget.php:140 inc/widgets/social_widget.php:123
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:152
+msgid "Choose Layout"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:154
+msgid "Small Thumbnail"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:155
+msgid "Text Only List"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:161
+msgid "Filter by Category"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:163
+msgid "All categories"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:173
+msgid "Post IDs (separate with comma):"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:175
+msgid "Display specific posts using post IDs. This option will override the category option above."
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:180
+#: inc/widgets/popularpost_widget.php:149
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:186
+msgid "Add Numbering"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:192
+msgid "Hide Date"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:20
+msgid "A widget that displays a Facebook Like Box"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:26
+msgid "Appetizo: Facebook Like Box"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:98
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:105
+msgid "Show Faces"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:111
+msgid "Show Stream"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:117
+msgid "Show Page Cover Image"
+msgstr ""
+
+#: inc/widgets/popularpost_widget.php:21
+msgid "A widget that displays your popular posts from all categories or a certain"
+msgstr ""
+
+#: inc/widgets/popularpost_widget.php:27
+msgid "Appetizo: Popular Posts"
+msgstr ""
+
+#: inc/widgets/popularpost_widget.php:135
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widgets/social_widget.php:19
+msgid "A widget that displays your social icons"
+msgstr ""
+
+#: inc/widgets/social_widget.php:25
+msgid "Appetizo: Social Icons"
+msgstr ""
+
+#: inc/widgets/social_widget.php:118
+msgid "Subscribe & Follow"
+msgstr ""
+
+#: inc/widgets/social_widget.php:127
+msgid "Note: Set your social links in the Customizer"
+msgstr ""
+
+#: inc/widgets/social_widget.php:130
+msgid "Show Facebook:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:135
+msgid "Show Twitter:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:140
+msgid "Show Instagram:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:145
+msgid "Show Pinterest:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:150
+msgid "Show Bloglovin:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:156
+msgid "Show Snapchat:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:162
+msgid "Show Google Plus:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:167
+msgid "Show Tumblr:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:172
+msgid "Show Youtube:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:177
+msgid "Show Dribbble:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:182
+msgid "Show Soundcloud:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:187
+msgid "Show Vimeo:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:192
+msgid "Show Linkedin:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:197
+msgid "Show RSS:"
+msgstr ""
+
+#: layoutboxes.php:13
+msgid "SEE MORE POSTS"
+msgstr ""
+
+#: related-posts-template.php:11
+msgid "You may also like"
+msgstr ""
+
+#: searchform.php:11 searchform.php:12 searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: template-nav.php:21
+msgid "Previous Post"
+msgstr ""
+
+#: template-nav.php:33
+msgid "Next Post"
+msgstr ""
+
+#: template-nav.php:49
+msgid "Posts navigation"
+msgstr ""
+
+#: theme-options.php:38
+msgid "Typography"
+msgstr ""
+
+#: theme-options.php:39
+msgid "This panel will provide all the fonts for your website."
+msgstr ""
+
+#: theme-options.php:48
+msgid "Blog Title"
+msgstr ""
+
+#: theme-options.php:49
+msgid "You can change Blog title and description typography from here."
+msgstr ""
+
+#: theme-options.php:59
+msgid "Logo Typography"
+msgstr ""
+
+#: theme-options.php:80
+msgid "Description Typography"
+msgstr ""
+
+#: theme-options.php:102
+msgid "Topbar"
+msgstr ""
+
+#: theme-options.php:103
+msgid "You can change Topbar font typography from here."
+msgstr ""
+
+#: theme-options.php:113
+msgid "Menubar Typography"
+msgstr ""
+
+#: theme-options.php:134
+msgid "Topbar Social Typography"
+msgstr ""
+
+#: theme-options.php:150
+msgid "Slider Fonts"
+msgstr ""
+
+#: theme-options.php:151
+msgid "You can change Slider typography from here."
+msgstr ""
+
+#: theme-options.php:161
+msgid "Slider Title"
+msgstr ""
+
+#: theme-options.php:184
+msgid "Slider Category"
+msgstr ""
+
+#: theme-options.php:204
+msgid "Homepage Post Title Fonts"
+msgstr ""
+
+#: theme-options.php:205
+msgid "You can change Homepage Posts typography from here."
+msgstr ""
+
+#: theme-options.php:215
+msgid "Standard Post Title Typography"
+msgstr ""
+
+#: theme-options.php:238
+msgid "Grid Post Title Typography"
+msgstr ""
+
+#: theme-options.php:262
+msgid "List Post Title Typography"
+msgstr ""
+
+#: theme-options.php:283
+msgid "Sidebar Title Fonts"
+msgstr ""
+
+#: theme-options.php:284
+msgid "You can change Sidebar Title typography from here."
+msgstr ""
+
+#: theme-options.php:294
+msgid "Sidebar Title Typography"
+msgstr ""
+
+#: theme-options.php:317
+msgid "Sidebar Widget Paragraph"
+msgstr ""
+
+#: theme-options.php:341
+msgid "Widgets Heading Font"
+msgstr ""
+
+#: theme-options.php:342
+msgid "You can change Blog headings typography from here."
+msgstr ""
+
+#: theme-options.php:352
+msgid "Widget Heading Typography"
+msgstr ""
+
+#: theme-options.php:374
+msgid "Widget Footer Typography"
+msgstr ""
+
+#: theme-options.php:397
+msgid "Paragraph Font"
+msgstr ""
+
+#: theme-options.php:398
+msgid "You can change Paragraph typography from here."
+msgstr ""
+
+#: theme-options.php:408
+msgid "Paragraph Typography"
+msgstr ""
+
+#: theme-options.php:435
+msgid "Post Category Fonts"
+msgstr ""
+
+#: theme-options.php:436 theme-options.php:489
+msgid "You can change Homepage and Sidebar Posts Category typography from here."
+msgstr ""
+
+#: theme-options.php:446
+msgid "Homepage Post Category Typography"
+msgstr ""
+
+#: theme-options.php:466
+msgid "Sidebar Post Category Typography"
+msgstr ""
+
+#: theme-options.php:488
+msgid "Read More Button"
+msgstr ""
+
+#: theme-options.php:499
+msgid "Read More Button Font"
+msgstr ""
+
+#: theme-options.php:520
+msgid "Author Information"
+msgstr ""
+
+#: theme-options.php:521
+msgid "You can change Post page Author Information typography from here."
+msgstr ""
+
+#: theme-options.php:531
+msgid "Author Info Font"
+msgstr ""
+
+#: theme-options.php:550 theme-options.php:561
+msgid "Buttons Typography"
+msgstr ""
+
+#: theme-options.php:551
+msgid "You can change Buttons typography from here."
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Appetizo Premium"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.vinethemes.com/downloads/appetizo-cooking-recipe-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Elevate your website with Appetizo, the ultimate cooking recipe WordPress theme. Crafted to showcase and share your delicious recipes in style. Get started today! Discover the perfect blend of functionality and aesthetics with Appetizo, a top-tier Cooking Recipe WordPress Theme designed to cater to your culinary passion. Whether you're a seasoned chef, a food blogger, or a cooking enthusiast looking to share your delectable creations, Appetizo offers an exceptional platform to showcase your recipes in a visually appealing and user-friendly manner. Seamlessly integrating social media, this multipurpose food theme caters to those who seek to celebrate the world of culinary delights. Give Appetizo a try today and embark on a journey of flavor exploration, awakening taste buds and recipe sharing. Theme Demo: https://www.vinethemes.com/themes?theme=Appetizo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VineThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.vinethemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Custom Archive"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
